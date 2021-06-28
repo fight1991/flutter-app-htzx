@@ -1,0 +1,7 @@
+com.hangtian.hongtu.bennenscan
+id btn_connect
+id btn_deviceid
+id btn_devicestate
+id btn_disconnect
+id btn_search
+layout bennentest_activity

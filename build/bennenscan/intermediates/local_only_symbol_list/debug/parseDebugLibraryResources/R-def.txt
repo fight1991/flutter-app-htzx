@@ -1,0 +1,8 @@
+R_DEF: Internal format may change without notice
+local
+id btn_connect
+id btn_deviceid
+id btn_devicestate
+id btn_disconnect
+id btn_search
+layout bennentest_activity

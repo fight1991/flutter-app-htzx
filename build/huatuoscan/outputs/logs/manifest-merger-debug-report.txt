@@ -1,0 +1,45 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\app-xiaomanyao\android\huatuoscan\src\main\AndroidManifest.xml:1:1-9:12
+INJECTED from E:\app-xiaomanyao\android\huatuoscan\src\main\AndroidManifest.xml:1:1-9:12
+INJECTED from E:\app-xiaomanyao\android\huatuoscan\src\main\AndroidManifest.xml:1:1-9:12
+INJECTED from E:\app-xiaomanyao\android\huatuoscan\src\main\AndroidManifest.xml:1:1-9:12
+INJECTED from E:\app-xiaomanyao\android\huatuoscan\src\main\AndroidManifest.xml:1:1-9:12
+INJECTED from E:\app-xiaomanyao\android\huatuoscan\src\main\AndroidManifest.xml:1:1-9:12
+INJECTED from E:\app-xiaomanyao\android\huatuoscan\src\main\AndroidManifest.xml:1:1-9:12
+	package
+		ADDED from E:\app-xiaomanyao\android\huatuoscan\src\main\AndroidManifest.xml:2:5-45
+		INJECTED from E:\app-xiaomanyao\android\huatuoscan\src\main\AndroidManifest.xml
+		INJECTED from E:\app-xiaomanyao\android\huatuoscan\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\app-xiaomanyao\android\huatuoscan\src\main\AndroidManifest.xml
+		ADDED from E:\app-xiaomanyao\android\huatuoscan\src\main\AndroidManifest.xml:1:1-9:12
+		INJECTED from E:\app-xiaomanyao\android\huatuoscan\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\app-xiaomanyao\android\huatuoscan\src\main\AndroidManifest.xml
+		ADDED from E:\app-xiaomanyao\android\huatuoscan\src\main\AndroidManifest.xml:1:1-9:12
+		INJECTED from E:\app-xiaomanyao\android\huatuoscan\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\app-xiaomanyao\android\huatuoscan\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from E:\app-xiaomanyao\android\huatuoscan\src\main\AndroidManifest.xml:3:5-7:19
+service#com.hangtian.hongtu.huatuoscan.ScanService
+ADDED from E:\app-xiaomanyao\android\huatuoscan\src\main\AndroidManifest.xml:4:9-5:50
+	android:process
+		ADDED from E:\app-xiaomanyao\android\huatuoscan\src\main\AndroidManifest.xml:5:13-39
+	android:name
+		ADDED from E:\app-xiaomanyao\android\huatuoscan\src\main\AndroidManifest.xml:4:18-75
+uses-sdk
+INJECTED from E:\app-xiaomanyao\android\huatuoscan\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\app-xiaomanyao\android\huatuoscan\src\main\AndroidManifest.xml
+INJECTED from E:\app-xiaomanyao\android\huatuoscan\src\main\AndroidManifest.xml
+INJECTED from E:\app-xiaomanyao\android\huatuoscan\src\main\AndroidManifest.xml
+INJECTED from E:\app-xiaomanyao\android\huatuoscan\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\app-xiaomanyao\android\huatuoscan\src\main\AndroidManifest.xml
+		ADDED from E:\app-xiaomanyao\android\huatuoscan\src\main\AndroidManifest.xml
+		INJECTED from E:\app-xiaomanyao\android\huatuoscan\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\app-xiaomanyao\android\huatuoscan\src\main\AndroidManifest.xml
+		ADDED from E:\app-xiaomanyao\android\huatuoscan\src\main\AndroidManifest.xml
+		INJECTED from E:\app-xiaomanyao\android\huatuoscan\src\main\AndroidManifest.xml

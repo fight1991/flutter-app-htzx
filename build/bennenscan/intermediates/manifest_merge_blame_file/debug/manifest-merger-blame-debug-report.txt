@@ -1,0 +1,54 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.hangtian.hongtu.bennenscan"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->E:\app-xiaomanyao\android\bennenscan\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->E:\app-xiaomanyao\android\bennenscan\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.BLUETOOTH" />
+11-->E:\app-xiaomanyao\android\bennenscan\src\main\AndroidManifest.xml:4:5-68
+11-->E:\app-xiaomanyao\android\bennenscan\src\main\AndroidManifest.xml:4:22-65
+12    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+12-->E:\app-xiaomanyao\android\bennenscan\src\main\AndroidManifest.xml:5:5-74
+12-->E:\app-xiaomanyao\android\bennenscan\src\main\AndroidManifest.xml:5:22-71
+13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+13-->E:\app-xiaomanyao\android\bennenscan\src\main\AndroidManifest.xml:6:5-80
+13-->E:\app-xiaomanyao\android\bennenscan\src\main\AndroidManifest.xml:6:22-78
+14    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+14-->E:\app-xiaomanyao\android\bennenscan\src\main\AndroidManifest.xml:7:5-78
+14-->E:\app-xiaomanyao\android\bennenscan\src\main\AndroidManifest.xml:7:22-76
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->E:\app-xiaomanyao\android\bennenscan\src\main\AndroidManifest.xml:8:5-66
+15-->E:\app-xiaomanyao\android\bennenscan\src\main\AndroidManifest.xml:8:22-64
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16-->E:\app-xiaomanyao\android\bennenscan\src\main\AndroidManifest.xml:9:5-80
+16-->E:\app-xiaomanyao\android\bennenscan\src\main\AndroidManifest.xml:9:22-78
+17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+17-->E:\app-xiaomanyao\android\bennenscan\src\main\AndroidManifest.xml:10:5-79
+17-->E:\app-xiaomanyao\android\bennenscan\src\main\AndroidManifest.xml:10:22-77
+18
+19    <application>
+19-->E:\app-xiaomanyao\android\bennenscan\src\main\AndroidManifest.xml:13:5-22:19
+20        <activity
+20-->E:\app-xiaomanyao\android\bennenscan\src\main\AndroidManifest.xml:15:9-17:20
+21            android:name="com.hangtian.hongtu.TestActivity"
+21-->E:\app-xiaomanyao\android\bennenscan\src\main\AndroidManifest.xml:15:19-66
+22            android:label="本能" >
+22-->E:\app-xiaomanyao\android\bennenscan\src\main\AndroidManifest.xml:16:13-31
+23        </activity>
+24
+25        <service
+25-->E:\app-xiaomanyao\android\bennenscan\src\main\AndroidManifest.xml:18:9-21:19
+26            android:name="com.hangtian.hongtu.service.KeepLifeService"
+26-->E:\app-xiaomanyao\android\bennenscan\src\main\AndroidManifest.xml:18:18-76
+27            android:process=":bn_service" >
+27-->E:\app-xiaomanyao\android\bennenscan\src\main\AndroidManifest.xml:19:13-42
+28        </service>
+29    </application>
+30
+31</manifest>

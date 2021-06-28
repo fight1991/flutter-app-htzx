@@ -1,0 +1,48 @@
+{
+  "@@last_modified": "2019-12-18T14:46:13.175618",
+  "title": "Flutter APP",
+
+  "navLabelHome": "Home",
+  "navLabelBrowse": "Browse",
+  "navLabelSearch": "Search",
+  "navLabelMine": "Mine",
+
+  "loading": "loading",
+  "retry": "retry",
+  "clickForRetry": "click this for retry",
+  "dataEmpty": "empty",
+  "nextPageLoading": "loading",
+
+  "apiHttpCancel": "Request Cancel",
+  "apiHttpError4xx": "Request No Found, Please Retry Later",
+  "apiHttpError5xx": "Server Has Error, Please Retry Later",
+  "apiHttpError": "Network Has Error, Please Check Network",
+  "apiArgumentError": "Api Argument Error, Please Tell Admin",
+  "apiJsonError": "Serivce Json Error, Please Retry Later",
+  "apiServiceError": "Serivce Error, Please Retry Later",
+  "apiServiceSuccess": "Request Success",
+
+  "homeTitle": "Home Page",
+
+  "mineUserNone": "Anonymous",
+  "mineLabelStar": "My Star",
+  "mineLabelHistory": "My History",
+  "mineLabelNightmode": "Night Mode",
+  "mineLabelLanguage": "Language",
+  "mineLabelSetting": "Setting",
+
+  "languageTitle": "Language Page",
+  "themeTitle": "Theme Page",
+  "videoPlayTitle": "Video Play",
+  "videoPlayLockTooltip": "Lock",
+
+  "webviewTitle": "Webview",
+
+  "settingTitle": "Setting",
+  "settingLabelTheme": "Theme",
+  "settingLabelRecommend": "Recommend to others",
+  "settingLabelAbout": "About us",
+
+  "aboutTitle": "About us"
+
+}

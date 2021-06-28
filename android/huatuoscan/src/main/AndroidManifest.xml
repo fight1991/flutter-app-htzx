@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.hangtian.hongtu.huatuoscan">
+    <application>
+        <service android:name="com.hangtian.hongtu.huatuoscan.ScanService"
+            android:process=":ht_scan"></service>
+
+    </application>
+
+</manifest>
